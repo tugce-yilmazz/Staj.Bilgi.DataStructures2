@@ -1,0 +1,4 @@
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures2\DataStructureSuccinctlyPart2\PriorityQueue\bin\Debug\PriorityQueue.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures2\DataStructureSuccinctlyPart2\PriorityQueue\bin\Debug\PriorityQueue.pdb
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures2\DataStructureSuccinctlyPart2\PriorityQueue\obj\x86\Debug\PriorityQueue.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures2\DataStructureSuccinctlyPart2\PriorityQueue\obj\x86\Debug\PriorityQueue.pdb

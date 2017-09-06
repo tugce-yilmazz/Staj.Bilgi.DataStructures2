@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkipList", "SkipList\SkipList.csproj", "{1B1829AB-F440-4658-945A-1387A21AD0D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableEklemeKaldirma", "HashTableEklemeKaldirma\HashTableEklemeKaldirma.csproj", "{219B63BF-69F6-4402-B75C-0B7EA2D25161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableSaymaSilme", "HashTableSaymaSilme\HashTableSaymaSilme.csproj", "{F5ECAF2F-76D0-44D9-8BFC-FDC7BFC2D895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableIcerik", "HashTableIcerik\HashTableIcerik.csproj", "{DC057F4E-031D-46BC-B717-91752A2F343A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableSayma", "HashTableSayma\HashTableSayma.csproj", "{ABFA8A46-44E3-4083-AAB3-86578A726169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueue", "PriorityQueue\PriorityQueue.csproj", "{0043F851-7833-4B3F-AC26-542BADA10CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvlTree", "AvlTree\AvlTree.csproj", "{870C2C16-176E-49DB-A26F-182195A35C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B1829AB-F440-4658-945A-1387A21AD0D5}.Debug|x86.ActiveCfg = Debug|x86
+		{1B1829AB-F440-4658-945A-1387A21AD0D5}.Debug|x86.Build.0 = Debug|x86
+		{1B1829AB-F440-4658-945A-1387A21AD0D5}.Release|x86.ActiveCfg = Release|x86
+		{1B1829AB-F440-4658-945A-1387A21AD0D5}.Release|x86.Build.0 = Release|x86
+		{219B63BF-69F6-4402-B75C-0B7EA2D25161}.Debug|x86.ActiveCfg = Debug|x86
+		{219B63BF-69F6-4402-B75C-0B7EA2D25161}.Debug|x86.Build.0 = Debug|x86
+		{219B63BF-69F6-4402-B75C-0B7EA2D25161}.Release|x86.ActiveCfg = Release|x86
+		{219B63BF-69F6-4402-B75C-0B7EA2D25161}.Release|x86.Build.0 = Release|x86
+		{F5ECAF2F-76D0-44D9-8BFC-FDC7BFC2D895}.Debug|x86.ActiveCfg = Debug|x86
+		{F5ECAF2F-76D0-44D9-8BFC-FDC7BFC2D895}.Debug|x86.Build.0 = Debug|x86
+		{F5ECAF2F-76D0-44D9-8BFC-FDC7BFC2D895}.Release|x86.ActiveCfg = Release|x86
+		{F5ECAF2F-76D0-44D9-8BFC-FDC7BFC2D895}.Release|x86.Build.0 = Release|x86
+		{DC057F4E-031D-46BC-B717-91752A2F343A}.Debug|x86.ActiveCfg = Debug|x86
+		{DC057F4E-031D-46BC-B717-91752A2F343A}.Debug|x86.Build.0 = Debug|x86
+		{DC057F4E-031D-46BC-B717-91752A2F343A}.Release|x86.ActiveCfg = Release|x86
+		{DC057F4E-031D-46BC-B717-91752A2F343A}.Release|x86.Build.0 = Release|x86
+		{ABFA8A46-44E3-4083-AAB3-86578A726169}.Debug|x86.ActiveCfg = Debug|x86
+		{ABFA8A46-44E3-4083-AAB3-86578A726169}.Debug|x86.Build.0 = Debug|x86
+		{ABFA8A46-44E3-4083-AAB3-86578A726169}.Release|x86.ActiveCfg = Release|x86
+		{ABFA8A46-44E3-4083-AAB3-86578A726169}.Release|x86.Build.0 = Release|x86
+		{0043F851-7833-4B3F-AC26-542BADA10CC7}.Debug|x86.ActiveCfg = Debug|x86
+		{0043F851-7833-4B3F-AC26-542BADA10CC7}.Debug|x86.Build.0 = Debug|x86
+		{0043F851-7833-4B3F-AC26-542BADA10CC7}.Release|x86.ActiveCfg = Release|x86
+		{0043F851-7833-4B3F-AC26-542BADA10CC7}.Release|x86.Build.0 = Release|x86
+		{870C2C16-176E-49DB-A26F-182195A35C17}.Debug|x86.ActiveCfg = Debug|x86
+		{870C2C16-176E-49DB-A26F-182195A35C17}.Debug|x86.Build.0 = Debug|x86
+		{870C2C16-176E-49DB-A26F-182195A35C17}.Release|x86.ActiveCfg = Release|x86
+		{870C2C16-176E-49DB-A26F-182195A35C17}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
